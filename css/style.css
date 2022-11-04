@@ -12,7 +12,7 @@ body {
 
 }
 
-/* content é uma section criada para alinha todo o conteúdo no centro */
+/* content é uma section criada para alinhar todo o conteúdo no centro */
 .content {
     display: flex;
     justify-content: center;
